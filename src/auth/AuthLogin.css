@@ -1,0 +1,7 @@
+
+.card-layout{
+    backdrop-filter: blur(20px) !important;
+    background-color: rgba(226, 226, 226, 0.668) !important;
+    border: none !important; 
+    border-radius: 20px !important;
+}
