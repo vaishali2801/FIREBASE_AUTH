@@ -3,6 +3,7 @@
 A simple authentication web application built with **React.js, Vite, and Firebase Authentication**. This project allows users to create an account using email and password and sign in with Google.
 
 ##screenshot
+<img width="1280" height="832" alt="Screenshot 2026-10-15 at 11 55 12 AM" src="https://github.com/user-attachments/assets/22437b41-38c7-4a5a-af28-0e0d868db313" />
 
 
 ## 🚀 Features
